@@ -1,5 +1,5 @@
-def say It's-a me Mario!  #remove
-  message="It's-a me Mario!
+def say It's-a me Mario!  # remove
+  message="It's-a me Mario! # 
   method="It's-a me Mario!"
   status='Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
