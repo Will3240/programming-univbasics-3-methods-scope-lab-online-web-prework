@@ -3,7 +3,7 @@ def mario
   message="It's-a me Mario!" 
  
   
-  puts phrase
+  puts message
 end
 
 def toadstool
